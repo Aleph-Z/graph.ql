@@ -14,10 +14,9 @@
     "url": "git://github.com/MatthewMueller/graph.ql.git"
   },
   "dependencies": {
-    "debug": "^2.2.0"
-  },
-  "peerDependencies": {
-    "graphql": "^0.5.0-b || ^0.6.0"
+    "co": "4.6.0",
+    "debug": "^2.2.0",
+    "graphql": "^0.5.0"
   },
   "devDependencies": {
     "mocha": "^2.3.4"
