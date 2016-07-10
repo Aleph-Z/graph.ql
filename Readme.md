@@ -18,6 +18,9 @@
 ## Installation
 
 ```
+# If you have GraphQL package installed before,
+# Remove it to avoid issue caused by multiple versions of GraphQL in node_modules directory
+# npm remove graphql
 npm install graph.ql
 ```
 
